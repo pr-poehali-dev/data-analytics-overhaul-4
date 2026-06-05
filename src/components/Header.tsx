@@ -15,9 +15,7 @@ export default function Header({ className }: HeaderProps) {
             Обо мне
           </a>
           <a
-            href="https://vk.com/sophie_fedorenko"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="#contact"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
           >
             Записаться
