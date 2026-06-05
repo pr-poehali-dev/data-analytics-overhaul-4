@@ -23,7 +23,9 @@ export default function Footer() {
                   Результаты
                 </a>
                 <a
-                  href="#contact"
+                  href="https://t.me/sophie_fedorenko"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
                   Записаться

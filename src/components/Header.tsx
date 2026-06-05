@@ -15,7 +15,9 @@ export default function Header({ className }: HeaderProps) {
             Обо мне
           </a>
           <a
-            href="#contact"
+            href="https://t.me/sophie_fedorenko"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
           >
             Записаться
