@@ -15,7 +15,7 @@ export default function Featured() {
           и открываем литературу заново — с удовольствием.
         </p>
         <a
-          href="https://vk.com/sophie_fedorenko"
+          href="https://t.me/sophie_fedorenko"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black w-fit uppercase tracking-wide inline-block"
